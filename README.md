@@ -1,9 +1,13 @@
 # firebase_flutter
 
-Nama  : Siti Nurhalisa
+NIM     : 2031710078
 
-NIM   : 2031710078
+Nama    : Siti Nurhalisa
 
-Kelas : MI 2C
+Kelas   : MI 2C 
 
-#Screenshot Hasil Program
+Prodi   : D3 Manajemen Informatika 
+
+Jurusan : Teknologi Informasi
+
+## ScreenShot Praktikum
